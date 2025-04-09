@@ -11,7 +11,7 @@ def clear_screen():
 def print_banner():
     f = Figlet(font='slant', width=100)
     print(Fore.MAGENTA + f.renderText('DNSniper'))
-    print(Fore.RED + "      | - |  By : F3NR1R - Cyber Security | - |         \n" + Fore.RESET)
+    print(Fore.RED + "      | - |  By : Fenrir - Penetration Tester | - |         \n" + Fore.RESET)
 
 def resolve_dns_records(domain):
     record_types = ["A", "AAAA", "MX", "NS", "TXT", "CNAME"]
