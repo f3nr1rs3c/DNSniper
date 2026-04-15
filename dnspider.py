@@ -3,7 +3,7 @@
 
 """
 DNSniper (dnspider.py) - Professional DNS Enumeration & Exploitation Tool
-Author: Sirius (Updated via Antigravity)
+Author: Sirius
 
 Özellikleri ve Pentest Notları:
 - **Zafiyet Tespiti (Zone Transfer - AXFR):** Yanlış yapılandırılmış DNS sunucularında
