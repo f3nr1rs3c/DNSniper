@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-DNSniper (dnspider.py) - Professional DNS Enumeration & Exploitation Tool
+DNSniper (dnsniper.py) - Professional DNS Enumeration & Exploitation Tool
 Author: Sirius
 
 Özellikleri ve Pentest Notları:
